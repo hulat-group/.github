@@ -1,4 +1,4 @@
-# Welcome to Hulta’s site on GitHub 
+# Welcome to Hulat’s site on GitHub 
 
 The Human Language and Accessibility Technologies (HULAT) group is part of the Computer Science Department at Universidad Carlos III de Madrid.
 
@@ -18,7 +18,7 @@ We collaborate with companies like MeaningCloud and are active members of the Sp
 
 For more information about our research, tools, and publications, visit our official website [Hulat](https://hulat.inf.uc3m.es/).
 
-📡 Official Channels
+## 🤝 Official Channels
 Stay updated and connected through our official platforms:
 
 🌐 Website: https://hulat.inf.uc3m.es
