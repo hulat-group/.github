@@ -18,7 +18,7 @@ We collaborate with companies like MeaningCloud and are active members of the Sp
 
 For more information about our research, tools, and publications, visit our official website [Hulat](https://hulat.inf.uc3m.es/).
 
-## 🤝 Official Channels
+## 📡 Official Channels
 Stay updated and connected through our official platforms:
 
 🌐 Website: https://hulat.inf.uc3m.es
