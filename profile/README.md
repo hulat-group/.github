@@ -25,4 +25,4 @@ Stay updated and connected through our official platforms:
 
 🔗 LinkedIn: HULAT (Human Language and Accessibility Technologies Group)-UC3M
 
-📧 Contact: 
+📧 Contact: pmf@inf.uc3m.es
