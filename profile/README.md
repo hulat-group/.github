@@ -21,8 +21,8 @@ For more information about our research, tools, and publications, visit our offi
 ## 📡 Official Channels
 Stay updated and connected through our official platforms:
 
-🌐 Website: https://hulat.inf.uc3m.es
+- 🌐 Website: https://hulat.inf.uc3m.es
 
-🔗 LinkedIn: HULAT (Human Language and Accessibility Technologies Group)-UC3M
+- 🔗 LinkedIn: HULAT (Human Language and Accessibility Technologies Group)-UC3M
 
-📧 Contact: pmf@inf.uc3m.es
+- 📧 Contact: pmf@inf.uc3m.es
