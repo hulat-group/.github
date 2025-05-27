@@ -13,7 +13,6 @@ We apply language technologies to information retrieval, question answering, tex
 We develop methodologies to create accessible applications and services by integrating accessibility requirements into the software development process and user interfaces. We have also contributed to national standards, such as AENOR PNE 71362:2017 for the quality of digital educational materials.
 
 ## 🤝 Collaborations
-We collaborate with companies like MeaningCloud and are members of the Spanish Centre for Subtitling and Audio Description (CESyA), promoting audiovisual accessibility in diverse contexts
 We collaborate with companies like MeaningCloud and are active members of the Spanish Centre for Subtitling and Audio Description (CESyA), promoting audiovisual accessibility across different domains.
 
 For more information about our research, tools, and publications, visit our official website [Hulat](https://hulat.inf.uc3m.es/).
